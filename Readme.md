@@ -1,3 +1,4 @@
+![Video Demo](project.MP4)
 # AI Painting App
 We are making an app that will track our hand and helps us to draw from that. We will be using the advance knowledge of **Machine Learning**. The programming language that we will use is Python. I am using **Python V03.07**. Go to the [installation](https://www.python.org/) web page if you do not have the python installed.
 ## Hand tracking
